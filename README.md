@@ -8,7 +8,7 @@
     <a href="https://arxiv.org/abs/2505.15649">📃Arxiv Paper</a> •
     <a href="https://huggingface.co/datasets/Tianjiao2001/LTB">🛢️Data</a> •
     <a href="https://huggingface.co/Tianjiao2001/MAEDet">🤗Checkpoint</a> •
-    <a href="#-citation">📖Citation
+    <a href="#-citation">📖Citation</a>
 </p>
 
 ## MAEDet
