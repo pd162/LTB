@@ -1,8 +1,4 @@
-<div align= "center">
-    <h1>  Official repo for LTB & MAEDet</h1>
-</div>
-
-## [IJCAI 2025] The Devil is in Fine-tuning and Long-tailed Problems: A New Benchmark for Scene Text Detection
+<h1 align="center"> [IJCAI 2025] The Devil is in Fine-tuning and Long-tailed Problems: A New Benchmark for Scene Text Detection </h1>
 
 <p align="center">
     <a href="https://arxiv.org/abs/2505.15649">📃Arxiv Paper</a> •
