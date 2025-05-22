@@ -2,7 +2,7 @@
     <h1>  Official repo for LTB & MAEDet</h1>
 </div>
 
-## [IJCAI 2024] The Devil is in Fine-tuning and Long-tailed Problems: A New Benchmark for Scene Text Detection
+## [IJCAI 2025] The Devil is in Fine-tuning and Long-tailed Problems: A New Benchmark for Scene Text Detection
 
 <p align="center">
     <a href="https://arxiv.org/abs/2505.15649">📃Arxiv Paper</a> •
@@ -15,7 +15,7 @@
 
 MAEDet utilizes self-supervised learning and the Masked Autoencoder (MAE) to learn better text representations from unlabeled data, providing a notable approach for addressing the diverse challenges of scene text detection.
 
-![MAEDet](MAEDet/MAE-std/MAEDet_overview.jpeg)
+![MAEDet](MAEDet/mae-std/MAEDet_overview.jpeg)
 
 ### 🛠️ Prerequisites
 
