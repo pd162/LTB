@@ -95,13 +95,16 @@ Download [LTB]() and read [instructions](https://github.com/pd162/LTB/blob/main/
 
 ## 📖 Citation
 
-If you find **MAEDet** or **LTB** useful for your your research, please kindly cite using this BibTeX:
+If you find **MAEDet** or **LTB** useful for your research, please kindly cite using this BibTeX:
 
 ```{bibtex}
 @inproceedings{cao2025devil,
-  title={The Devil is in Fine-tuning and Long-tailed Problems:A New Benchmark for Scene Text Detection},
+  title={The Devil is in Fine-tuning and Long-tailed Problems: A New Benchmark for Scene Text Detection},
   author={Cao, Tian-Jiao and Lyu, Jia-Hao and Zeng, Wei-Chao and Mu, Wei-Min and Zhou Yu},
   booktitle={Proceedings of the Thirty-Fourth International Joint Conference on Artificial Intelligence},
   year={2025}
 }
 ```
+
+## 🙏 Acknowledgments
+This work is heavily based on [MAE](https://github.com/facebookresearch/mae), [MMOCR](https://github.com/open-mmlab/mmocr). Thanks to all the authors for their great work.
